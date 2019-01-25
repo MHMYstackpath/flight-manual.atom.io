@@ -17,7 +17,8 @@ The github package brings Git and GitHub integration right inside Atom.
 - [Resolve conflicts](#resolve-conflicts)
 - [Create a Pull Request](#create-a-pull-request)
 - [View Pull Requests](#view-pull-requests)
-- [Checkout a Pull Request](#checkout-a-pull-request)
+- [Checkout a Pull Re
+quest](#checkout-a-pull-request)
 - [Open any Issue or Pull Request](#open-any-issue-or-pull-request)
 
 Most of the functionality lives within the Git and GitHub dock items.
